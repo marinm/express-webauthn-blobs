@@ -1,0 +1,24 @@
+{
+  "name": "express-webauthn-blobs",
+  "version": "0.0.0",
+  "description": "Express routes for blob storage with WebAuthn access control",
+  "keywords": [
+    "express",
+    "typescript",
+    "blobs",
+    "webauthn"
+  ],
+  "homepage": "https://github.com/marinm/express-webauthn-blobs#readme",
+  "bugs": {
+    "url": "https://github.com/marinm/express-webauthn-blobs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinm/express-webauthn-blobs.git"
+  },
+  "license": "ISC",
+  "author": "marinm",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {}
+}
