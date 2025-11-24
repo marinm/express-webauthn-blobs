@@ -19,6 +19,14 @@
   "license": "ISC",
   "author": "marinm",
   "type": "module",
-  "main": "index.js",
-  "scripts": {}
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@tsconfig/node24": "^24.0.3",
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  }
 }
